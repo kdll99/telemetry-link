@@ -1,0 +1,8 @@
+# Build artifacts
+sender/sender
+sender/build/
+**/__pycache__/
+*.pyc
+*.o
+*.a
+.DS_Store
